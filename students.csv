@@ -1,0 +1,3 @@
+"id","icard_number","student_id","status","name","level","class_name","room","teacher_name","avatar_url","qr_url"
+1,"IC-0002","1c0d6131-7bf7-4b50-a5aa-56c1f90c6b98","REQUESTED","mutabazi ganza oneil","level 3","level 3 a","room 16","N/A","https://res.cloudinary.com/dmdxkhocb/image/upload/v1756116620/pnseekkg23pfnjuzzzg6.jpg","https://school.com/icard/IC-0002"
+3,"IC-0004","76e7a09a-dbdc-47df-aff3-39e592d29787","REQUESTED","yakin nsannzumuhire","level 3","level 3 a","room 16","N/A","https://res.cloudinary.com/dmdxkhocb/image/upload/v1756114883/orqp3uuqpqe94pwm9imv.jpg","https://school.com/icard/IC-0004"
